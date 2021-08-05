@@ -1,0 +1,11 @@
+  
+.btn {
+    visibility: hidden;
+}
+.taskbox:hover .btn {
+    visibility: visible;
+}
+
+.donework{
+    text-decoration: line-through;
+}
